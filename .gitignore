@@ -1,0 +1,19 @@
+# فایل‌های موقت
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# فایل‌های Buildozer
+.buildozer/
+bin/
+*.apk
+*.apks
+
+# فایل‌های دیتابیس موقت
+*.db
+*.sqlite3
+
+# لاگ‌ها
+*.log
